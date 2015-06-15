@@ -15,3 +15,5 @@ markdown: kramdown
 
 # Global settings
 timezone: Australia/Sydney
+encoding: utf-8
+
