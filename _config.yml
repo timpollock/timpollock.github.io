@@ -1,0 +1,17 @@
+# Site settings
+title: timpollock.com
+email: tim@timpollock.com
+description: > # this means to ignore newlines until "baseurl:"
+    This is just the ramblings of a computer scientist, hacker, occasional gamer,
+    mobile developer, and somewhat of a so-and-so. Join me on my journey through
+    the Internet doing my best to remember to address things as I see them.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://timpollock.com" # the base hostname & protocol for your site
+twitter_username: xxlolxlolxx
+github_username:  timpollock
+
+# Build settings
+markdown: kramdown
+
+# Global settings
+timezone: Australia/Sydney
